@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/gitrepo.iml" filepath="$PROJECT_DIR$/.idea/gitrepo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Boardgamesapp.iml" filepath="$PROJECT_DIR$/.idea/Boardgamesapp.iml" />
     </modules>
   </component>
 </project>

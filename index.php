@@ -5,7 +5,6 @@
  * @bootstrap.php file to initialize database
  * @Request::uri get the uri
  * */
-require 'vendor/autoload.php';
 $query = require 'core/bootstrap.php';
 $current = Request::uri();
 
